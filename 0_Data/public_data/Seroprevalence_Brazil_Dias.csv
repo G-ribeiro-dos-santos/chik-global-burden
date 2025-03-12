@@ -1,0 +1,9 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Brazil,Feira de Santana,2015-2016,1,19,46,88
+Brazil,Feira de Santana,2015-2016,20,39,72,123
+Brazil,Feira de Santana,2015-2016,40,59,69,121
+Brazil,Feira de Santana,2015-2016,60,NA,33,53
+Brazil,Riachao do Jacuipe_bis,2015-2016,1,19,17,45
+Brazil,Riachao do Jacuipe_bis,2015-2016,20,39,55,109
+Brazil,Riachao do Jacuipe_bis,2015-2016,40,59,63,144
+Brazil,Riachao do Jacuipe_bis,2015-2016,60,NA,69,148

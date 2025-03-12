@@ -1,0 +1,11 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+France,Guadeloupe,2015,18,30,136,275
+France,Guadeloupe,2015,31,40,57,136
+France,Guadeloupe,2015,41,50,84,171
+France,Guadeloupe,2015,51,60,62,125
+France,Guadeloupe,2015,61,70,22,43
+France,Martinique,2015,18,30,73,200
+France,Martinique,2015,31,40,71,220
+France,Martinique,2015,41,50,116,260
+France,Martinique,2015,51,60,125,249
+France,Martinique,2015,61,70,36,75

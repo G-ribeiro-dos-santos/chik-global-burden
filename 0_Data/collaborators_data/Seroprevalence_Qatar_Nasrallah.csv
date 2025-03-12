@@ -1,0 +1,8 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Qatar,Doha,2013-2016,18,24,0,16
+Qatar,Doha,2013-2017,25,29,1,33
+Qatar,Doha,2013-2018,30,34,3,35
+Qatar,Doha,2013-2019,35,39,0,38
+Qatar,Doha,2013-2020,40,44,1,35
+Qatar,Doha,2013-2021,45,49,1,20
+Qatar,Doha,2013-2022,50,100,1,23

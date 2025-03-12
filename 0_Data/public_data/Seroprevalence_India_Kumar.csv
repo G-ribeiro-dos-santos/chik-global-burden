@@ -1,0 +1,46 @@
+"Country","Region","Year","Age_min","Age_max","N_seropos","N_tot"
+"India","Punjab",2017,5,8,13,286
+"India","Punjab",2017,9,17,17,288
+"India","Punjab",2017,18,45,17,260
+"India","NCT of Delhi",2017,5,8,81,253
+"India","NCT of Delhi",2017,9,17,85,257
+"India","NCT of Delhi",2017,18,45,100,252
+"India","Uttar Pradesh",2017,5,8,31,255
+"India","Uttar Pradesh",2017,9,17,42,281
+"India","Uttar Pradesh",2017,18,45,50,270
+"India","Assam",2017,5,8,2,242
+"India","Assam",2017,9,17,5,270
+"India","Assam",2017,18,45,1,260
+"India","Meghalaya",2017,5,8,3,231
+"India","Meghalaya",2017,9,17,4,255
+"India","Meghalaya",2017,18,45,1,282
+"India","Tripura",2017,5,8,2,249
+"India","Tripura",2017,9,17,4,280
+"India","Tripura",2017,18,45,1,291
+"India","Bihar",2017,5,8,5,243
+"India","Bihar",2017,9,17,9,286
+"India","Bihar",2017,18,45,6,256
+"India","West Bengal",2017,5,8,14,248
+"India","West Bengal",2017,9,17,21,257
+"India","West Bengal",2017,18,45,24,255
+"India","Odisha",2017,5,8,2,324
+"India","Odisha",2017,9,17,3,331
+"India","Odisha",2017,18,45,11,286
+"India","Andhra Pradesh",2017,5,8,69,327
+"India","Andhra Pradesh",2017,9,17,149,345
+"India","Andhra Pradesh",2017,18,45,173,313
+"India","Karnataka",2017,5,8,29,300
+"India","Karnataka",2017,9,17,87,275
+"India","Karnataka",2017,18,45,114,261
+"India","Tamil Nadu",2017,5,8,27,333
+"India","Tamil Nadu",2017,9,17,140,316
+"India","Tamil Nadu",2017,18,45,148,246
+"India","Rajasthan",2017,5,8,13,243
+"India","Rajasthan",2017,9,17,29,266
+"India","Rajasthan",2017,18,45,56,253
+"India","Madhya Pradesh",2017,5,8,26,264
+"India","Madhya Pradesh",2017,9,17,59,277
+"India","Madhya Pradesh",2017,18,45,81,261
+"India","Maharashtra",2017,5,8,25,261
+"India","Maharashtra",2017,9,17,128,281
+"India","Maharashtra",2017,18,45,136,230

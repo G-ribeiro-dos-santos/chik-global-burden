@@ -1,0 +1,9 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Kenya,Busia_bis,2015,5,14,141,250
+Kenya,Busia_bis,2015,15,24,57,76
+Kenya,Busia_bis,2015,25,34,37,52
+Kenya,Busia_bis,2015,35,44,38,42
+Kenya,Busia_bis,2015,45,54,29,37
+Kenya,Busia_bis,2015,55,64,15,19
+Kenya,Busia_bis,2015,65,74,16,21
+Kenya,Busia_bis,2015,75,110,2,2

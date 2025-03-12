@@ -1,0 +1,6 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Cameroon,Kumbo,2007,5,14,6,6
+Cameroon,Kumbo,2007,15,29,4,5
+Cameroon,Kumbo,2007,30,44,21,25
+Cameroon,Kumbo,2007,45,59,23,25
+Cameroon,Kumbo,2007,60,81,41,44

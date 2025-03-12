@@ -1,0 +1,28 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Kenya,Central Nyanza,1967,0,4,1,1
+Kenya,Central Nyanza,1967,5,9,4,10
+Kenya,Central Nyanza,1967,10,14,92,165
+Kenya,Central Nyanza,1967,15,19,36,80
+Kenya,Central Nyanza,1967,20,29,62,121
+Kenya,Central Nyanza,1967,30,39,64,134
+Kenya,Central Nyanza,1967,40,49,63,114
+Kenya,Central Nyanza,1967,50,59,70,108
+Kenya,Central Nyanza,1967,60,110,57,89
+Kenya,Kitui,1967,0,4,1,160
+Kenya,Kitui,1967,5,9,0,194
+Kenya,Kitui,1967,10,14,0,87
+Kenya,Kitui,1967,15,19,0,68
+Kenya,Kitui,1967,20,29,4,167
+Kenya,Kitui,1967,30,39,2,150
+Kenya,Kitui,1967,40,49,0,87
+Kenya,Kitui,1967,50,59,0,56
+Kenya,Kitui,1967,60,110,3,65
+Kenya,Malindi_bis,1967,0,4,7,60
+Kenya,Malindi_bis,1967,5,9,27,108
+Kenya,Malindi_bis,1967,10,14,53,97
+Kenya,Malindi_bis,1967,15,19,39,73
+Kenya,Malindi_bis,1967,20,29,96,160
+Kenya,Malindi_bis,1967,30,39,57,102
+Kenya,Malindi_bis,1967,40,49,54,89
+Kenya,Malindi_bis,1967,50,59,40,68
+Kenya,Malindi_bis,1967,60,110,51,77

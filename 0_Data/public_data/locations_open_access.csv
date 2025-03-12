@@ -1,0 +1,46 @@
+location,country,continent,lat,lon,study
+Cotonou,Benin,Africa,6.366667,2.433333,Benin_Bacci
+Cameroon,Cameroon,Africa,7.369722,12.354722,Cameroon_Kuniholm
+Kumbo,Cameroon,Africa,6.205,10.685,Cameroon_Demanou
+Bagandou,Central African Rep.,Africa,3.744444,17.839444,CAR_Sureau
+Grande Comore Island,Comoros,Africa,-11.6519809,43.3725967,Comoros_Sergon
+Djibouti City,Djibouti,Africa,11.58901,43.14503,Djibouti_Andayi
+South Omo Valley,Ethiopia,Africa,4.8,35.966667,Ethiopia_Endale
+Lare_Itang,Ethiopia,Africa,8.1999992,34.2666656,Ethiopia_Asebe
+Central Nyanza,Kenya,Africa,-0.5,34.666667,Kenya_Geser
+Kitui,Kenya,Africa,-1.483333,38.383333,Kenya_Geser
+Malindi_bis,Kenya,Africa,-3.223611,40.13,Kenya_Geser
+Milalani_Vuga,Kenya,Africa,-4.467,39.45,Kenya_Lebeaud
+Busia_bis,Kenya,Africa,0.46005,34.11169,Kenya_Grossi-Soyster
+Busia,Kenya,Africa,0.46005,34.11169,Kenya_Mease
+Malindi,Kenya,Africa,-3.219186,40.11689,Kenya_Mease
+Samburu,Kenya,Africa,-3.7666636,39.2833322,Kenya_Mease
+Busia_Malindi_Samburu,Kenya,Africa,-2.175266533,37.83730407,Kenya_Mease
+Kainji Lake,Nigeria,Africa,10.366667,4.55,Nigeria_Adekolu
+Kedougou,Senegal,Africa,12.56,-12.18,Senegal_Sow
+Dagana,Senegal,Africa,16.4833314,-15.5999976,Senegal_Seck
+Podor,Senegal,Africa,16.6166642,-15.0333332,Senegal_Seck
+Pete,Senegal,Africa,16.1058889,-13.9477547,Senegal_Seck
+Ranerou,Senegal,Africa,15.05069,-14.13322,Senegal_Seck
+Kanel,Senegal,Africa,15.4916,-13.17627,Senegal_Seck
+Dagana_Podor_Pete_Ranerou_Kanel,Senegal,Africa,15.9496349,-14.3781151,Senegal_Seck
+Juazeiro do Norte,Brazil,America,-7.229036,-39.312446,Brazil_Barreto
+Quixadá,Brazil,America,-4.968579,-39.016247,Brazil_Braga
+Riachao do Jacuipe_bis,Brazil,America,-11.80694,-39.38556,Brazil_Cunha
+Salvador,Brazil,America,-12.974722,-38.476665,Brazil_Ribeiro
+Feira de Santana,Brazil,America,-12.26667,-38.96667,Brazil_Dias
+Riachao do Jacuípe,Brazil,America,-11.80694,-39.38556,Brazil_Dias
+Cruzeiro do Sul,Brazil,America,-7.628041,-72.676161,Brazil_Kanunfre
+Juazeiro,Brazil,America,-9.4278966,-40.5058152,Brazil_Nicacio
+Cabrobo,Brazil,America,-8.5081924,-39.3102652,Brazil_Nicacio
+Aguas Belas,Brazil,America,-9.11139,-37.12306,Brazil_Nicacio
+Guadeloupe,France,America,16.265,-61.551,France_Gallian
+Martinique,France,America,14.641528,-61.024174,France_Gallian
+Trapeang Roka village,Cambodia,Asia,13,105,Cambodia_Auerswald
+Bagan Panchor,Malaysia,Asia,4.529883,100.638371,Malaysia_Ayu
+Singapore,Singapore,Asia,1.29027,103.851959,Singapore_Ang
+An Giang,Vietnam,Asia,10.51119507,105.1806084,Vietnam_Quan
+Ho Chi Minh,Vietnam,Asia,10.762622,106.660172,Vietnam_Quan
+Dak Lak,Vietnam,Asia,12.8399392,108.2284947,Vietnam_Quan
+Hue,Vietnam,Asia,16.463713,107.590866,Vietnam_Quan
+Vietnam_merge,Vietnam,Asia,12.64436732,106.9150353,Vietnam_Quan_merge

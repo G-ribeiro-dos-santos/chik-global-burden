@@ -1,0 +1,13 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Brazil,Juazeiro,2017,30,40,1,17
+Brazil,Juazeiro,2017,41,50,1,15
+Brazil,Juazeiro,2017,51,60,0,11
+Brazil,Juazeiro,2017,61,70,1,9
+Brazil,Cabrobo,2017,30,40,0,33
+Brazil,Cabrobo,2017,41,50,0,37
+Brazil,Cabrobo,2017,51,60,0,30
+Brazil,Cabrobo,2017,61,70,0,9
+Brazil,Aguas Belas,2017,30,40,76,97
+Brazil,Aguas Belas,2017,41,50,54,66
+Brazil,Aguas Belas,2017,51,60,56,74
+Brazil,Aguas Belas,2017,61,70,27,35

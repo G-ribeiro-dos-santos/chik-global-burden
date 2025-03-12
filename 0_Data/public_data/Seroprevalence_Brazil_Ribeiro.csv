@@ -1,0 +1,4 @@
+Country,Region,Year,Age_min,Age_max,N_seropos,N_tot
+Brazil,Salvador,2017,5,14,41,396
+Brazil,Salvador,2017,15,39,104,921
+Brazil,Salvador,2017,40,NA,63,455
